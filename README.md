@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# game-of-life
-=======
 # Game of Life Simulation
 
 ## Overview
